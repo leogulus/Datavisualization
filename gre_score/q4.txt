@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+
+<title>2014 Applicant Profiles and Admission Results - Page 3 - Physics GRE Discussion Forums</title>
+
+
+	<link rel="canonical" href="http://www.physicsgre.com/viewtopic.php?t=5203&amp;start=100" />
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./styles/prosilver/theme/print.css?assets_version=6" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="./styles/prosilver/theme/stylesheet.css?assets_version=6" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./styles/prosilver/theme/en/stylesheet.css?assets_version=6" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./styles/prosilver/theme/responsive.css?assets_version=6" rel="stylesheet" type="text/css" media="only screen and (max-width: 700px), only screen and (max-device-width: 700px)" />
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver/theme/tweaks.css?assets_version=6" rel="stylesheet" type="text/css" media="screen, projection" />
+<![endif]-->
+
+
+
+
+
+<style>
+
+.pgremain {
+     text-align: center;
+}
+
+
+@media screen and (max-width: 815px) {
+
+	.pgremain img {
+		width: 100%;
+	}
+}
+
+
+</style>
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46797807-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+<div id="wrap">
+	<a id="top" class="anchor" accesskey="t"></a>
+
+
+
+
+	<div id="page-header">
+
+<div class="pgremain">
+<a href="http://www.physicsgre.com"><img src="/images/phy3.gif" alt="Physics GRE" /></a>
+</div>
+
+
+		<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="linklist bulletin" role="menubar">
+
+		<li id="quick-links" class="small-icon responsive-menu dropdown-container" data-skip-responsive="true">
+			<a href="#" class="responsive-menu-link dropdown-trigger">Quick links</a>
+			<div class="dropdown hidden">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+
+											<li class="separator"></li>
+																								<li class="small-icon icon-search-unanswered"><a href="./search.php?search_id=unanswered" role="menuitem">Unanswered posts</a></li>
+						<li class="small-icon icon-search-active"><a href="./search.php?search_id=active_topics" role="menuitem">Active topics</a></li>
+						<li class="separator"></li>
+						<li class="small-icon icon-faq"><a href="./faq.php" rel="help" title="Frequently Asked Questions" role="menuitem">FAQ</a></li>
+						<li class="small-icon icon-search"><a href="./search.php" role="menuitem">Search</a></li>
+
+											<li class="separator"></li>
+												<li class="small-icon icon-team"><a href="./memberlist.php?mode=team" role="menuitem">The team</a></li>										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+		<li data-last-responsive="true"><a href="/search.php?search_id=latestposts" title="Latest Posts" role="menuitem">Latest Posts</a></li>
+
+
+			<li class="small-icon icon-logout rightside"  data-skip-responsive="true"><a href="./ucp.php?mode=login" title="Login" accesskey="x" role="menuitem">Login</a></li>
+					<li class="small-icon icon-register rightside" data-skip-responsive="true"><a href="./ucp.php?mode=register" role="menuitem">Register</a></li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="linklist navlinks" role="menubar">
+						<li class="small-icon icon-home breadcrumbs">
+									<span class="crumb"><a href="./" accesskey="h" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-navbar-reference="index">Forum Index</a></span>
+											<span class="crumb"><a href="./viewforum.php?f=3" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-forum-id="3">Prospective Physics Graduate Student Topics</a></span>
+												</li>
+
+					<li class="rightside responsive-search" style="display: none;"><a href="./search.php" title="View the advanced search options" role="menuitem">Search</a></li>
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+
+
+
+
+
+
+
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body">
+
+
+<h2 class="topic-title"><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=100">2014 Applicant Profiles and Admission Results</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;"><ul><li>This has become our largest and most active forum because the physics GRE is just one aspect of getting accepted into a graduate physics program.</li><li>There are applications, personal statements, letters of recommendation, visiting schools, anxiety of waiting for acceptances, deciding between schools, finding out where others are going, etc.</li></ul><br /></div>
+
+
+<div class="action-bar top">
+
+	<div class="buttons">
+
+			<a href="./posting.php?mode=reply&amp;f=3&amp;t=5203" class="button icon-button reply-icon" title="Post a reply">
+			Post Reply		</a>
+
+			</div>
+
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button icon-button tools-icon dropdown-trigger dropdown-select"></span>
+		<div class="dropdown hidden">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li class="small-icon icon-print"><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=100&amp;view=print" title="Print view" accesskey="p">Print view</a></li>							</ul>
+		</div>
+	</div>
+
+			<div class="search-box">
+			<form method="get" id="topic-search" action="./search.php">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Search this topic…" />
+				<button class="button icon-button search-icon" type="submit" title="Search">Search</button>
+				<a href="./search.php" class="button icon-button search-adv-icon" title="Advanced search">Advanced search</a>
+				<input type="hidden" name="t" value="5203" />
+<input type="hidden" name="sf" value="msgonly" />
+
+			</fieldset>
+			</form>
+		</div>
+
+			<div class="pagination">
+			110 posts
+							<ul>
+		<li class="previous"><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=50" rel="prev" role="button">Previous</a></li>
+			<li><a href="./viewtopic.php?f=3&amp;t=5203" role="button">1</a></li>
+			<li><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=50" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+	</ul>
+					</div>
+
+</div>
+
+
+			<div id="p46889" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46889">
+			<dt class="no-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=19268" class="avatar"><img src="./download/file.php?avatar=19268_1394120170.png" width="126" height="106" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19268" class="username">drunkphysics</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19268&amp;sr=posts">16</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Thu Mar 06, 2014 11:01 am</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46889">
+
+			<h3 class="first"><a href="#p46889">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46889" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46889#p46889"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19268" class="username">drunkphysics</a></strong> &raquo; </span>Wed Apr 23, 2014 7:50 am </p>
+
+
+
+			<div class="content"><span style="font-weight: bold">Undergrad Institution</span>: Liberal Arts School, very much unknown physics program.<br /><span style="font-weight: bold">Major(s)</span>: Physics<br /><span style="font-weight: bold">Minor(s)</span>: Mathematics, Music<br /><span style="font-weight: bold">GPA in Major</span>: 3.60<br /><span style="font-weight: bold">Overall GPA</span>: 3.62<br /><span style="font-weight: bold">Length of Degree</span>: 4 years<br /><span style="font-weight: bold">Position in Class</span>: near-top, 2nd<br /><span style="font-weight: bold">Type of Student</span>: Domestic white guy<br /><br /><span style="font-weight: bold">GRE Scores </span>: revised<br /><span style="font-weight: bold">Q</span>: 153 – 53%<br /><span style="font-weight: bold">V</span>: 154 – 62%<br /><span style="font-weight: bold">W</span>: 4.0 – 54%<br /><span style="font-weight: bold">P</span>: 540 – 17%  - posting this for all of us that are less than Harvard-bound.<br /><br /><span style="font-weight: bold">Research Experience</span>:  Senior Thesis / SCE on a custom acoustics experiment, individually presented at a large academic conference;  Adv. Lab coursework presented at an academic poster-session with classmates; Currently working on R&amp;D as technician for 1 year now, modeling/studying electrochemistry and fluid dynamics.  No publications or authorships <img class="smilies" src="./images/smilies/icon_sad.gif" alt=":(" title="Sad" /><br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: some departmental award/scholarship thing my junior year for outstanding something or other; 7 semesters on deans list; graduated cum laude; eagle scout?<br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: Intro physics lab TA for 5 semesters w/ grading; served as president and senate rep for SPS; served as alumni relations and historian for national fraternity. (careful to word as anonymous service org on apps, some profs are extremely biased against fraternities <img class="smilies" src="./images/smilies/icon_neutral.gif" alt=":|" title="Neutral" />)   <br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: my senior thesis was an experiment I spearheaded, I came up with the idea and built the whole thing myself, gotta be worth something; I also interned 1 summer at a large science center. <br /><br /><span style="font-weight: bold">Special Bonus Points</span>: Small school means personal LOR’s, especially when you have hung out with a few profs and gotten to know each other on more than just an academic level. I know at least 2 of mine are good quality. <br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter</span>: I’ve always been highly involved with music, was part of numerous ensembles and organizations. Might be brownie points for some admissions? Dunno.<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br /><br /><span style="text-decoration: underline">Case Western</span> – CME - <span style="color: #0000FF"> waitlisted upon email inquiry. </span><br /><span style="text-decoration: underline">University of Pittsburgh</span> – CME - <span style="color: #FF0000">rejected via their system 4/8</span><br /><span style="text-decoration: underline">Ohio State University</span> - CME – <span style="color: #FF0000">rejected via email 3/11</span><br /><span style="text-decoration: underline">Ohio University</span> - CME - <span style="color: #0000FF"> most likely waitlisted, haven’t even asked. </span> <span style="color: #FF0000">rejected 4/11 </span><br /><span style="text-decoration: underline">Drexel</span> - CME - <span style="color: #FF0000">rejected via email inquiry 3/10</span><br /><span style="text-decoration: underline">William &amp; Mary</span> - CME - <span style="color: #0000FF"> waitlisted upon email inquiry. </span> <span style="color: #FF0000">rejected 4/16</span><br /><span style="text-decoration: underline">LeHigh</span> - CME - <span style="color: #0000FF"> waitlisted upon email inquiry, was contacted by their admissions coordinator, told me I was high on short list, and asked if I had retaken gre for better Q score.  He told me this is the only filter they use, 70-75% range. </span> <span style="color: #FF0000">rejected 4/21 </span><br /><span style="text-decoration: underline">Bryn Mawr</span> - CME - <span style="color: #FF0000">rejected via snail mail 3/17</span><br /><span style="text-decoration: underline">West Virginia</span> - CME - <span style="color: #0000FF"> waitlisted upon email inquiry. </span><br /><span style="text-decoration: underline">Kent State</span> - CME – <span style="color: #0000FF">waitlisted upon email inquiry, was “high up on their short list”. </span> <span style="color: #FF0000">rejected 4/19 </span><br /><br /><br />I think my selection was arguably appropriate for my gre score ranges. Hopefully this information will be much more helpful to prospectives than the current spread of results; it’s hard to extrapolate downward on this forum. Turns out PGRE really is the gatekeeper, or so it would seem. I don’t think normal GRE counts for much unless you royally screw it up, but I could be wrong. Would probably be worth gaining a few points in my case for Q. <br /><br />Not gonna give up.  Only fuel for the fire to study harder for that accursed PGRE.</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p46890" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46890">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19222" class="username">sorethumb</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19222&amp;sr=posts">4</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Fri Feb 07, 2014 1:50 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46890">
+
+			<h3 ><a href="#p46890">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46890" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46890#p46890"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19222" class="username">sorethumb</a></strong> &raquo; </span>Thu Apr 24, 2014 6:50 pm </p>
+
+
+
+			<div class="content">I hope that my profile will help future non-traditional applicants. I looked at these profiles, but none of them fit my situation.<br />______________________________________________<br /><span style="font-weight: bold">Undergrad Institution</span>: Highly ranked small liberal arts college<br /><span style="font-weight: bold">Major(s)</span>: English<br /><span style="font-weight: bold">Minor(s)</span>: Spanish<br /><span style="font-weight: bold">GPA in Major</span>: 3.6<br /><span style="font-weight: bold">Overall GPA</span>: 3.4<br /><span style="font-weight: bold">Length of Degree</span>: 3.5 years<br /><br /><span style="font-weight: bold">Master's Institution</span>: Lesser state university, no reputation in physics<br /><span style="font-weight: bold">Major(s)</span>: Physics<br /><span style="font-weight: bold">GPA in Major</span>: 3.99<br /><span style="font-weight: bold">Overall GPA</span>: 3.99<br /><span style="font-weight: bold">Length of Degree</span>: 3 years<br /><br /><span style="font-weight: bold">Position in Class</span>: ?<br /><span style="font-weight: bold">Type of Student</span>: Domestic female<br /><br /><span style="font-weight: bold">GRE Scores </span>:<br /><span style="font-weight: bold">Q</span>: 169<br /><span style="font-weight: bold">V</span>: 165<br /><span style="font-weight: bold">W</span>: 4.0 (huh? Well, they ask questions like &quot;Does God exist? Pick yes or no. You have 30 minutes.&quot;)<br /><span style="font-weight: bold">P</span>: 940<br /><br /><br /><span style="font-weight: bold">Research Experience</span>: Two quarters of observational astronomy, two years of computational condensed matter with a reputable theorist.<br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: 2-year master's fellowship<br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: TA, tutor, and also a few years working office jobs..<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: I think my English degree made my application stand out. I decided to emphasize it in my statement of purpose, rather than try to hide it.<br /><br /><span style="font-weight: bold">Special Bonus Points</span>: I'm half Hispanic, but I only mentioned that in the applications asking for a diversity essay (most did not).<br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter</span>: I'm older than most of the applicants.<br /><br /><span style="font-weight: bold">Applying to Where</span>: All for condensed matter theory &amp; computation<br /><br /><span style="text-decoration: underline">UC Santa Barbara</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">Caltech</span> - <span style="color: #FF0000"><span style="font-weight: bold">Rejected</span></span><br /><span style="text-decoration: underline">CU Boulder</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">U Chicago</span> - <span style="color: #FF0000"><span style="font-weight: bold">Rejected</span></span><br /><span style="text-decoration: underline">U Washington</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">Stanford</span> - <span style="color: #FF0000"><span style="font-weight: bold">Rejected</span></span><br /><span style="text-decoration: underline">Berkeley</span> - <span style="color: #FF0000"><span style="font-weight: bold">Rejected</span></span><br /><span style="text-decoration: underline">MIT</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">UC San Diego</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">UC Irvine</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">UCLA</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">UIUC</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">UT Austin</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">Boston U</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br /><span style="text-decoration: underline">University of Maryland</span> - <span style="color: #00FF00"><span style="font-weight: bold">Accepted</span></span><br />______________________________________________</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p46896" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46896">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=17162" class="username">mrfotih</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=17162&amp;sr=posts">56</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Wed Jul 06, 2011 6:02 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46896">
+
+			<h3 ><a href="#p46896">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46896" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46896#p46896"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=17162" class="username">mrfotih</a></strong> &raquo; </span>Fri Apr 25, 2014 3:44 pm </p>
+
+
+
+			<div class="content"><span style="font-weight: bold">Undergrad Institution</span>: Foreign University<br /><span style="font-weight: bold">Major(s)</span>:Physics<br /><span style="font-weight: bold">Minor(s)</span>:<br /><span style="font-weight: bold">GPA in Major</span>:<br /><span style="font-weight: bold">Overall GPA</span>:<br /><span style="font-weight: bold">Length of Degree</span>: 4<br /><span style="font-weight: bold">Position in Class</span>: top 5%<br /><span style="font-weight: bold">Graduate School</span>: Big State School in the USA<br /><span style="font-weight: bold">GPA in Major</span>:<br /><span style="font-weight: bold">Type of Student</span>: International<br /><br /><span style="font-weight: bold">GRE Scores </span>:<br /><span style="font-weight: bold">Q</span>:<br /><span style="font-weight: bold">V</span>:<br /><span style="font-weight: bold">W</span>:<br /><span style="font-weight: bold">P</span>:<br /><br /><br /><span style="font-weight: bold">Research Experience</span>:<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br /><br /><span style="text-decoration: underline">Georgia Institute of Technology</span> - Condensed Matter Physics and Quantum Optics <span style="color: #FF0000">rejected</span> via web-site<br /><span style="text-decoration: underline">Boston University</span> - Condensed Matter Physics <span style="color: #FF0000">rejected</span> via e-mail<br /><span style="text-decoration: underline">University of Florida</span> - Condensed Matter Physics <span style="color: #FFBF00">wait listed</span> and then <span style="color: #FF0000">rejected</span> via e-mail<br /><span style="text-decoration: underline">University of Pittsburgh</span> - Condensed Matter Physics <span style="color: #FFBF00">wait listed</span> and then <span style="color: #FF0000">rejected</span> via web-site<br /><span style="text-decoration: underline">North Carolina State University</span> - Condensed Matter Physics <span style="color: #008000">accepted</span> via e-mail <span style="font-weight: bold">WILL ATTEND</span><br /><span style="text-decoration: underline">Northeastern University</span> - Condensed Matter Physics <span style="color: #FFBF00">wait listed</span> and then <span style="color: #FF0000">rejected</span> via web-site<br /><span style="text-decoration: underline">University of Delaware</span> - Condensed Matter Physics and Quantum Optics <span style="color: #008000">accepted</span> by e-mail <span style="color: #0000FF">declined</span><br /><span style="text-decoration: underline">Kent State University</span> - Condensed Matter Physics <span style="color: #008000">accepted</span> via e-mail <span style="color: #0000FF">declined</span></div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p46905" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46905">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19359" class="username">grizzman</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19359&amp;sr=posts">1</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Sun Apr 27, 2014 4:50 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46905">
+
+			<h3 ><a href="#p46905">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46905" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46905#p46905"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19359" class="username">grizzman</a></strong> &raquo; </span>Mon Apr 28, 2014 11:23 pm </p>
+
+
+
+			<div class="content"><span style="font-weight: bold">Undergrad Institution</span>: Medium-sized state school in the heart of the American auto industry, very small physics program<br /><span style="font-weight: bold">Major(s)</span>: Physics, Mechanical Engineering<br /><span style="font-weight: bold">Minor(s)</span>:<br /><span style="font-weight: bold">GPA in Major</span>: Physics 3.99; ME 4.00<br /><span style="font-weight: bold">Overall GPA</span>: 3.99<br /><span style="font-weight: bold">Length of Degree</span>: 4 years<br /><span style="font-weight: bold">Position in Class</span>: Top<br /><span style="font-weight: bold">Type of Student</span>: Domestic Caucasian Male<br /><br /><span style="font-weight: bold">GRE Scores </span>: Revised<br /><span style="font-weight: bold">Q</span>: 170 (98%)<br /><span style="font-weight: bold">V</span>: 154 (62%)<br /><span style="font-weight: bold">W</span>: 4 (54%)<br /><span style="font-weight: bold">P</span>: 990 (94%)<br /><br /><br /><span style="font-weight: bold">Research Experience</span>: An REU in experimental nuclear physics; another REU in accelerator physics; a semester in theoretical radiation biophysics. Both REU's were the best in their respective fields. No publications.<br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: Goldwater Scholarship Honorable Mention, Presidential Scholar (full tuition scholarship), and other minor awards.<br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: Supplemental Instruction Leader for both of the intro calculus-based physics courses for 3 years, Peer Tutor for physics/math/engineering for 3 years, 1 summer as an intern at a manufacturing engineering company<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: 2 degrees in 4 years<br /><br /><span style="font-weight: bold">Special Bonus Points</span>: A good personality?<br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter</span>: Member of Tau Beta Pi - The Engineering Honor Society, officers for two other student orgs related to service<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br />Basically, I applied as a general experimentalists between particle, high energy, nuclear, and accelerator physics. If a school was reputable in the area, I applied for it. (no particular order)<br /><br /><span style="text-decoration: underline">Michigan State</span> - Physics - <span style="color: #00FF00">Accepted </span>1/16 via email. CNS fellowship, NSCL fellowship, University Distinguished fellowship $29,000/year + $1,500 signing bonus - Declined<br /><span style="text-decoration: underline">Michigan</span> - Physics - <span style="color: #00FF00">Accepted </span>1/24 via email. fellowship and quarter time GSI $2,325/month - Declined<br /><span style="text-decoration: underline">Wisconsin - Madison</span> - Physics - <span style="color: #00FF00">Accepted </span>1/22 via email. half-TA $19,485/year + Van Vleck Fellowship $1,000 + Brown Fellowship $5,000 - Declined<br /><span style="text-decoration: underline">University of Chicago</span> - Physics - <span style="color: #00FF00">Accepted </span>1/31 via email to check website. $2,500/month + McCormick Fellowship $1,500/quarter + Sachs Fellowship - Declined<br /><span style="text-decoration: underline">MIT</span> - Physics - <span style="color: #00FF00">Accepted </span>2/10 via email. fellowship $2,838/month - Declined<br /><span style="text-decoration: underline">Stanford</span> - Physics - <span style="color: #00FF00">Accepted </span>2/24 via email. TA/RA $37,291 - <span style="color: #00FF00"><span style="font-weight: bold">Will Attend!!!</span></span>  <img class="smilies" src="./images/smilies/icon_biggrin.gif" alt=":D" title="Very Happy" /> <br /><br /><span style="text-decoration: underline">Cornell</span> - Physics - <span style="color: #FF0000">Rejected</span> 2/11 via email ????? <img class="smilies" src="./images/smilies/icon_eek.gif" alt=":shock:" title="Shocked" /><br /><span style="text-decoration: underline">Berkeley</span> - Physics - <span style="color: #FF0000">Rejected</span> 2/25 via email to check website<br /><span style="text-decoration: underline">Harvard</span> - Physics - <span style="color: #FF0000">Rejected</span> 2/24 via snail mail<br /><span style="text-decoration: underline">Yale</span> - Physics - <span style="color: #FF0000">Rejected</span> 2/10 via email to check website<br /><br />My advice, beyond what everyone is giving, is that it is possible to come from a no-name school in physics into the elites. My ME degree helped in some ways for experimental physics; however, it also hurt me in other ways. I probably could have done more research during the year. I also did not have the depth of physics course work that most students applying to these schools have; however, I made up for that with my P-GRE score. You also don't need to publish, but it certainly helps. Also, stay off this forum after you have submitted your applications. It will save you stress, just relax because you deserve it!</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p46906" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46906">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19361" class="username">jjm64</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19361&amp;sr=posts">1</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Tue Apr 29, 2014 4:07 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46906">
+
+			<h3 ><a href="#p46906">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46906" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46906#p46906"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19361" class="username">jjm64</a></strong> &raquo; </span>Tue Apr 29, 2014 4:36 pm </p>
+
+
+
+			<div class="content"><span style="font-weight: bold">Undergrad Institution:</span> Medium Sized Private School decent physics reputation<br /><span style="font-weight: bold">Major(s):</span> Physics BS<br /><span style="font-weight: bold">Minor(s)</span>: None<br /><span style="font-weight: bold">GPA in Major:</span> 4.0<br /><span style="font-weight: bold">Overall GPA:</span> 3.98<br /><span style="font-weight: bold">Length of Degree:</span> 5 years<br /><span style="font-weight: bold">Position in Class:</span> Top<br /><span style="font-weight: bold">Type of Student:</span> White male domestic<br /><br /><span style="font-weight: bold">GRE Scores :</span> (revised)<br /><span style="font-weight: bold">Q:</span> 167 (95%)<br /><span style="font-weight: bold">V:</span> 159 (81%)<br /><span style="font-weight: bold">W:</span> 4.0 (54%)<br /><span style="font-weight: bold">P:</span> 800 (72%)<br /><br /><span style="font-weight: bold">Research Experience:</span> 1 year of research in astrophysics and 3 years of research in particle physics <br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions:</span> Honors College, Dean's List, 3 physics awards from home institution <br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs:</span> 2 terms of TA experience<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help:</span> NA<br /><br /><span style="font-weight: bold">Special Bonus Points:</span> adviser had good connections at a few of the schools I applied to <br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter:</span> NA<br /><br /><span style="font-weight: bold">Applying to Where:</span> Experimental Particle Physics Ph.D. programs (specifically neutrino physics)<br /><br /><span style="color: #00FF40"><span style="text-decoration: underline">Wisconsin-Madison</span> - Physics - Accepted 1/22 via email, $29k/year</span> - Declined<br /><span style="color: #00FF40"><span style="text-decoration: underline">Yale</span> - Physics - Accepted 2/14 via email to check website, $31k/year</span> - Declined <br /><span style="color: #00FF40"><span style="text-decoration: underline">UPenn</span> - Physics - Accepted 3/2 via email, $29k/year</span> - Declined<br /><span style="color: #00FF40"><span style="text-decoration: underline">Penn State</span> - Physics - Accepted 2/7 via email, $26k/year</span> - Declined<br /><span style="color: #00FF40"><span style="text-decoration: underline">UCLA</span> - Physics - Accepted 2/8 via email, $32k/year</span> - Declined<br /><span style="color: #00FF40"><span style="text-decoration: underline">UIUC</span> - Physics - Accepted 2/13 via email, $21k/year</span> - Declined<br /><span style="color: #00FF40"><span style="text-decoration: underline">Stanford</span> - Physics - Accepted 2/24 via email, $37k/year</span> - <span style="color: #00FF40">Will Attend</span><br /><br /><span style="color: #FF0000"><span style="text-decoration: underline">Maryland, College Park</span> - Physics - Rejected 2/9 via email to check website</span><br /><span style="color: #FF0000"><span style="text-decoration: underline">Princeton </span>- Physics - Rejected 2/14 via email</span><br /><span style="color: #FF0000"><span style="text-decoration: underline">Berkeley</span> - Physics - Rejected 2/25 via email to check website</span><br /><span style="color: #FF0000"><span style="text-decoration: underline">Chicago</span> - Physics - Rejected 2/6 via email to check website</span></div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p46913" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile46913">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19365" class="username">heisenberg_aka_ww</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19365&amp;sr=posts">1</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Thu May 01, 2014 11:03 am</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content46913">
+
+			<h3 ><a href="#p46913">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=46913" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=46913#p46913"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19365" class="username">heisenberg_aka_ww</a></strong> &raquo; </span>Thu May 01, 2014 11:22 am </p>
+
+
+
+			<div class="content">b]Undergrad Institution[/b]: Big State....Good (top 20) reputation in physics.<br /><span style="font-weight: bold">Major(s)</span>: Physics, Mathematics<br /><br /><span style="font-weight: bold">GPA in Major</span>:~3.7<br /><span style="font-weight: bold">Overall GPA</span>:~3.1<br /><span style="font-weight: bold">Length of Degree</span>: 4 years<br /><span style="font-weight: bold">Position in Class</span>: near top<br /><span style="font-weight: bold">Type of Student</span>: Domestic White Male<br /><br /><span style="font-weight: bold">Q</span>:165<br /><span style="font-weight: bold">V</span>:161<br /><span style="font-weight: bold">W</span>:3<br /><span style="font-weight: bold">P</span>:800<br /><br /><span style="font-weight: bold">Research Experience</span>: A couple of years working in a theory group. Took a class with the PI.  Working on submitting a paper.  Presented at APS March meeting.   Think I have at least a couple strong LOR. <br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: National Undergraduate Research Fellowships (paid for by major company).  Some dean's list bs . <br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: SPS VPres and SPS Pres<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: Wrote opinion pieces for school paper for two semesters (featured topics of interest to science students)<br /><br /><span style="font-weight: bold">Special Bonus Points</span>: A good handful of grad classes with As. <br /><br /><span style="font-weight: bold">Applying to Where</span>:<br />I stated in all of my applications that I was interested in CMT and Biophysics theory.  Tailored what I said specifically to each department. <br /><br /><span style="text-decoration: underline">Yale</span> - Physics-<span style="color: #008000">Accepted</span> <br /><span style="text-decoration: underline">UCLA</span> -Physics -<span style="color: #008000">Accepted</span> <br /><span style="text-decoration: underline">CU Boulder</span> -Physics -<span style="color: #008000">Accepted</span>  <br /><span style="text-decoration: underline">UCLA</span> -Physics-<span style="color: #008000">Accepted</span>  <br /><span style="text-decoration: underline">CU Boulder</span> -Physics-<span style="color: #008000">Accepted</span>  <br /><span style="text-decoration: underline">Oxford</span> -Physics-<span style="color: #008000">Accepted</span> <br /><span style="text-decoration: underline">Rice</span> - Physics-<span style="color: #0000BF">Accepted -Will Attend</span><br /><br /><span style="text-decoration: underline">Caltech</span> - Applied Physics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">Harvard</span> - Applied Physics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">Berkeley</span> - Biophysics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">UChicago</span> - Biophysics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">MIT </span> - Physics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">Princeton </span> - Physics-<span style="color: #800000">Rejected</span><br /><span style="text-decoration: underline">UCSD</span> - Physics-<span style="color: #800000">Rejected</span><br /><br /><span style="text-decoration: underline">NSF GRFP</span>-<span style="color: #008000">Accepted....Pretty cool. </span><br /><br />Really surprised I got into top physics programs but no interest from applied physics or biophysics which are generally perceived as easier to get into.  They tend to be much smaller programs so maybe I seemed a little rough around the edges.<br /><br />Even though I got into &quot;better&quot; schools I choose to go where I did because of specific professors in the department and overall feel of the place.</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p47093" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile47093">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=18967" class="username">wildcat</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=18967&amp;sr=posts">2</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Tue Jun 25, 2013 10:58 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content47093">
+
+			<h3 ><a href="#p47093">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=47093" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=47093#p47093"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=18967" class="username">wildcat</a></strong> &raquo; </span>Wed Jul 16, 2014 4:35 pm </p>
+
+
+
+			<div class="content">Undergrad Institution: State University (large in my state, small nationally)<br />Major(s): Physics, Education<br />Minor(s):<br />GPA in Major: 4.0 (kind of)<br />Overall GPA: 3.0<br />Length of Degree: 5 years to complete a degree in education, 2 more years to finish a degree in physics<br />Position in Class: ??<br />Type of Student: White male<br /><br />GRE Scores : Revised<br />Q: 168 (96%)<br />V: 157 (73%)<br />W: 4.5 (78%)<br />P: 870 (82%)<br /><br /><br />TOEFL Total: N/A<br /><br />So, some explanation here will probably help clarify the rest of my profile.  I graduated in 2007 with a degree in secondary education.  I was a high school physics teacher for 5 years before returning to school to finish a B.S. in physics.<br /><br />Research Experience: About a year writing software to test electronics as part of the CMS upgrade.<br /><br />Awards/Honors/Recognitions: Outstanding future teacher award; several scholarships<br /><br />Pertinent Activities or Jobs: TA in Chemistry and Physics departments, lab coordinator, high school physics teacher<br /><br />Any Miscellaneous Accomplishments that Might Help: I did a lot in school my first time through (student government, coached, taught classes).  I was also very involved in my community as a teacher after I graduated the first time.<br /><br />Special Bonus Points: As a more &quot;mature&quot; student, I am sure I appear to be lower risk for failing.<br /><br />Any Other Info That Shows Up On Your App and Might Matter: I am a first generation college student from a relatively poor family.<br /><br />Applying to Where: <br />All of these schools I expressed interest in doing neutrino experiments with the exception of Michigan State (nuclear).<br /><br />Kansas State - Physics - <span style="color: #00FF40">Accepted</span><br />Michigan State - Physics - <span style="color: #00FF40">Accepted</span><br />Minnesota - Physics - <span style="color: #00FF40">Accepted</span><br />Duke - Physics - <span style="color: #0040FF">Accepted - Will Attend</span><br /><br />CalTech - Physics - <span style="color: #BF0040">Rejected</span><br />Chicago - Physics - <span style="color: #BF0040">Rejected</span><br />Yale - Physics - <span style="color: #BF0040">Rejected</span><br />Berkeley - Physics - <span style="color: #BF0040">Rejected</span><br />Wisconsin - Physics - <span style="color: #BF0040">Rejected</span><br /><br />Takeaway for future applicants<br />Prepare!  I can some up all of my advice with that one word.  Though, I will give some specific advice here, if you just stay on top of everything the process is much easier to deal with (and less stressful).<br />Research - We all know you should do a lot.  I think it is also important to make sure that you are learning valuable skills from that research.  Work in labs where they are doing the kind of work that you don't know how to do so that you learn new skills.<br />PGRE - Those who say it isn't that important are wrong.  Of course we've all read about that person with a terrible score that got into some terrific place.  But those are exceptions.  I applied to much better schools than I was planning on applying to after I got a better score than I had planned on getting.  Look at my GPA and research experience - without my PGRE score I would have probably been staying at my undergrad institution for grad school.<br />Make flashcards of equations that you don't know.  I made about 120 of them and reviewed them every once in a while when I was waiting in line or eating lunch.  I answered 4-5 questions on the exam correctly because I looked at the exact equation I needed right before the exam.<br />SOP - Start early.  I wrote my first draft about 6 months before applications were due.  I had anyone who would read it do so.  I got some good advice and some less than helpful advice.  But it is very easy to forward your most recent draft of your SOP to a professor.  Consider having a prof outside of physics read it.  I had a political science prof who proofreads texts on the side read mine.  She made a lot of nice suggestions on sentence structure and word choice.<br /><br />If anyone reading this has a sort of non-traditional route to grad school, feel free to PM me.  I think I learned a lot about this process in going through it and would be more than happy to share with you what I feel are the challenges and the advantages (and I think there are many of these too) in being non-traditional.</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p47144" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile47144">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=19014" class="username">idk</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=19014&amp;sr=posts">1</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Thu Aug 08, 2013 4:56 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content47144">
+
+			<h3 ><a href="#p47144">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=47144" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=47144#p47144"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=19014" class="username">idk</a></strong> &raquo; </span>Sun Jul 27, 2014 11:22 pm </p>
+
+
+
+			<div class="content">I'm a bit late to the party, but hopefully next year's applicants can still benefit from my experiences <img class="smilies" src="./images/smilies/icon_razz.gif" alt=":-P" title="Razz" /><br /><br /><span style="font-weight: bold">Undergrad Institution</span>: Top in Canada for physics<br /><span style="font-weight: bold">Major(s)</span>: Physics<br /><span style="font-weight: bold">Minor(s)</span>: Mathematics<br /><span style="font-weight: bold">GPA in Major</span>: 4.00/4.00<br /><span style="font-weight: bold">Overall GPA</span>: 4.00/4.00<br /><span style="font-weight: bold">Length of Degree</span>: 4 years<br /><span style="font-weight: bold">Position in Class</span>: Top, or close to it<br /><span style="font-weight: bold">Type of Student</span>: White Canadian male<br /><br /><span style="font-weight: bold">GRE Scores</span>:<br /><span style="font-weight: bold">Q</span>: 170 (98%)<br /><span style="font-weight: bold">V</span>: 169 (99%)<br /><span style="font-weight: bold">W</span>: 5.5 (97%)<br /><span style="font-weight: bold">P</span>: 970 (92%)<br /><br /><span style="font-weight: bold">Research Experience</span>: One summer + term project in experimental condensed matter, one summer in experimental AMO, one in theoretical AMO, and term project in experimental quantum optics, all at my home university. One publication (PRB) from the first of these.<br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: Litany of &quot;top in x&quot; scholarships from home university, NSERC USRA (Canadian equivalent of REU) at home university in the summers of second year, NSERC USRA + Chair's Scholar (additional departmental award) in the summer of third year. No external awards.<br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: Have held a nicely-titled peer mentoring position for the past two years.<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: Nothing..<br /><br /><span style="font-weight: bold">Special Bonus Points</span>: My recommenders seem to have extremely high opinions of me - two told me they'd directly contacted people at places I've applied... I worry this is entirely undeserved<br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter</span>: Made some gambles in my personal statements (particularly for Caltech and Princeton) that apparently did not pay off.. ;A;<br />My interests are a bit restrictive or limited / limiting: almost every university I applied to only has one person whose work interests me; I named the one person I was interested in for most of my apps.<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br /><br /><span style="text-decoration: underline">Boulder</span> - Quantum Optics - <span style="color: #00FF00">Accepted Jan. 31 via email with $8000 signing bonus</span><br /><span style="text-decoration: underline">Berkeley</span> - Quantum Optics / Ultracold Atoms - <span style="color: #00FF00">Accepted Feb. 4 via email to check website, offered Berkeley fellowship Feb. 28</span><br /><span style="text-decoration: underline">Caltech</span> - Quantum Optics - <span style="color: #FF0000">Rejected Mar. 10 with an amazingly impersonal email</span><br /><span style="text-decoration: underline">Chicago</span> - Quantum Optics / Condensed Matter (IME) - <span style="color: #00FF00">Accepted Jan. 15 via email + IME Graduate Fellowship</span> - declined<br /><span style="text-decoration: underline">Harvard</span> - Quantum Optics - <span style="color: #00FF00">Accepted Feb. 13 via email, beautiful folder in the mail later</span> - <span style="color: #0000FF">WILL ATTEND!</span><br /><span style="text-decoration: underline">McGill</span> - Quantum Optics - <span style="color: #00FF00">Unofficial acceptance via email Jan. 18</span> - declined, but really like two profs and am working there over the summer<br /><span style="text-decoration: underline">MIT</span> - Quantum Optics - <span style="color: #FF0000">Rejected Feb. 18 via email</span><br /><span style="text-decoration: underline">Princeton</span> - Quantum Optics / Condensed Matter - <span style="color: #FF0000">Rejected Feb. 14 via email</span><br /><span style="text-decoration: underline">Stanford</span> - Quantum Optics / Ultracold Atoms - <span style="color: #00FF00">Accepted Feb. 24 via email</span> - declined<br /><span style="text-decoration: underline">Yale</span> - Quantum Optics - <span style="color: #00FF00">Accepted Feb. 14 via email</span> - declined<br /><br />I guess I agree with a few posters before me in that you're best off applying in the field of your best-connected recommender. I suspect mentioning a specific prof for most places helped me overall, but the admissions process remains pretty opaque to me. Apart from that, I'm very happy with my results - best of luck to all !! <img class="smilies" src="./images/smilies/icon_biggrin.gif" alt=":-D" title="Very Happy" /></div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p50388" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile50388">
+			<dt class="no-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=20582" class="username">tallvvkp1991</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=20582&amp;sr=posts">1</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Mon Nov 16, 2015 11:48 pm</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content50388">
+
+			<h3 ><a href="#p50388">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=50388" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=50388#p50388"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=20582" class="username">tallvvkp1991</a></strong> &raquo; </span>Mon Nov 16, 2015 11:53 pm </p>
+
+
+
+			<div class="content"><blockquote><div><cite>luca.agozzino wrote:</cite><span style="font-weight: bold">Undergrad Institution</span>: Italian research university, top 5 in italy for physics, discrete reputation in the world<br /><span style="font-weight: bold">Major(s)</span>:  Physics, Theoretical Physics<br /><span style="font-weight: bold">Minor(s)</span>:Mathematic<br /><span style="font-weight: bold">GPA in Major</span>: 4.0<br /><span style="font-weight: bold">Overall GPA</span>: 4.0<br /><span style="font-weight: bold">Length of Degree</span>: I am graduating at a 2-year Master, got graduate at Bachelor in 2011<br /><span style="font-weight: bold">Position in Class</span>: Top, they say<br /><span style="font-weight: bold">Type of Student</span>: Male<br /><br /><span style="font-weight: bold">GRE Scores </span>: revised<br /><span style="font-weight: bold">Q</span>: 164 (89%)<br /><span style="font-weight: bold">V</span>: 155 (66%)<br /><span style="font-weight: bold">W</span>: 3.0 (14%) ( <img class="smilies" src="./images/smilies/icon_rolleyes.gif" alt=":roll:" title="Rolling Eyes" /> hope it's not decisive...)<br /><span style="font-weight: bold">P</span>: 910 (88%)<br /><br /><br /><span style="font-weight: bold">IELTS Total</span>: 7.5<br /><br /><span style="font-weight: bold">Research Experience</span>: One year of research activity with my supervisor theoretical group. A first paper was published on Physical Review Letters; we submitted a second paper to EPJc, waiting for the answere<br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: A merit based scolarship during all the 5 year period and a Departmental Prize the the best Bachelor graduate student.<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br /><br /><span style="text-decoration: underline">MIT</span> - Physics - HEP-th, Gravitation<br /><span style="text-decoration: underline">BU</span> - Physics - HEP-th, Gravitation<br /><span style="color: #00FF00"><span style="text-decoration: underline">Brandeis</span> - Physics - HEP-th, Gravitation</span> - <span style="color: #0000FF">two Skype interview 01/25 and 02/06</span><span style="color: #00FF00"> - Accepted 02/07 - Financial details to come</span><br /><span style="text-decoration: underline">SUNY Stony Brook</span> - Physics - HEP-th, Gravitation<br /><span style="color: #FF0040"><span style="text-decoration: underline">Princeton</span> - Physics - HEP-th, Gravitation - rejected by email 02/14</span><br /><span style="text-decoration: underline">Caltech</span> - Physics - HEP-th, Gravitation<br /><span style="text-decoration: underline">UCLA</span> - Physics- HEP-th, Gravitation<br /><span style="text-decoration: underline">Berkeley</span> - Physics - HEP-th, Gravitation</div></blockquote><br /><br /><br />I have got similar scores as of yours... could you let me know what admits did you receive?</div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+				<div id="p50391" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile50391">
+			<dt class="no-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=18001" class="avatar"><img src="./download/file.php?avatar=18001_1337700097.gif" width="93" height="93" alt="User avatar" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=18001" class="username">Izaac</a>							</dt>
+
+
+		<dd class="profile-posts"><strong>Posts:</strong> <a href="./search.php?author_id=18001&amp;sr=posts">45</a></dd>		<dd class="profile-joined"><strong>Joined:</strong> Tue Mar 20, 2012 2:24 am</dd>
+
+
+
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content50391">
+
+			<h3 ><a href="#p50391">Re: 2014 Applicant Profiles and Admission Results</a></h3>
+
+									<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;f=3&amp;p=50391" title="Reply with quote" class="button icon-button quote-icon"><span>Quote</span></a>
+						</li>
+																			</ul>
+
+			<p class="author"><a href="./viewtopic.php?p=50391#p50391"><span class="imageset icon_post_target" title="Post">Post</span></a><span class="responsive-hide">by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=18001" class="username">Izaac</a></strong> &raquo; </span>Tue Nov 17, 2015 10:32 am </p>
+
+
+
+			<div class="content"><span style="font-weight: bold">Undergrad Institution</span>: French uni, good reputation in sciences<br /><span style="font-weight: bold">Major</span>: Physics<br /><span style="font-weight: bold">Minor</span>: Maths<br /><span style="font-weight: bold">GPA</span>: 75%-ish<br /><span style="font-weight: bold">Length of Degree</span>: 3 years<br /><br /><span style="font-weight: bold">Grad Institution</span>: Japanese uni, good reputation in sciences<br /><span style="font-weight: bold">Major</span>: Physics<br /><span style="font-weight: bold">GPA</span>: 85%-ish<br /><span style="font-weight: bold">Length of Degree</span>: 2 years<br /><br /><span style="font-weight: bold">Type of Student</span>: International<br /><br /><span style="font-weight: bold">GRE Scores </span>: revised<br /><span style="font-weight: bold">Q</span>: 168 (95%)<br /><span style="font-weight: bold">V</span>: 162 (89%)<br /><span style="font-weight: bold">W</span>: 4.5 (80%)<br /><span style="font-weight: bold">P</span>: 870 (83%)<br /><br /><br /><span style="font-weight: bold">TOEFL Total</span>: 115<br /><br /><span style="font-weight: bold">Research Experience</span>: one summer working on a programming project (Monte-Carlo simulation of particle physics process), one summer working on building a microscope, four months at a low temperature lab studying silica aerogel and superconductive materials. No publication.<br /><br /><span style="font-weight: bold">Awards/Honors/Recognitions</span>: a few scholarships from the Japanese government.<br /><br /><span style="font-weight: bold">Pertinent Activities or Jobs</span>: one year TA.<br /><br /><span style="font-weight: bold">Any Miscellaneous Accomplishments that Might Help</span>: nah<br /><br /><span style="font-weight: bold">Special Bonus Points</span>: nah<br /><br /><span style="font-weight: bold">Any Other Info That Shows Up On Your App and Might Matter</span>: nah<br /><br /><span style="font-weight: bold">Applying to Where</span>:<br />all in HET, with interest in nonlinear dynamics/CMT<br /><br /><span style="text-decoration: underline">MIT</span> - Physics <span style="color: #FF0000">nope</span><br /><span style="text-decoration: underline">Yale</span> - Physics <span style="color: #FF0000">try again</span><br /><span style="text-decoration: underline">Cornell</span> - Physics <span style="color: #FF0000">c'mon!</span><br /><span style="text-decoration: underline">Michigan</span> - Physics <span style="color: #FF0000">aww seriously man</span><br /><span style="text-decoration: underline">Wisconsin-Madison</span> - Physics <span style="color: #00BF00">aaah, see? </span><br /><span style="text-decoration: underline">Georgia Tech</span> - Physics <span style="color: #00BF00">yeah, shake it baby!</span><br /><br />and the winner is:<br /><span style="text-decoration: underline">Cambridge</span> - MASt in Applied Maths <span style="color: #00BF00">ooOOWMAGUDYEAAAAH!</span></div>
+
+
+
+
+						</div>
+
+		</div>
+
+		<div class="back2top"><a href="#top" class="top" title="Top">Top</a></div>
+
+		</div>
+	</div>
+
+	<hr class="divider" />
+
+
+
+
+
+
+
+<script>
+ // Load GPT asynchronously
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+   var gads = document.createElement('script');
+   gads.async = true;
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') +
+       '//www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+ })();
+
+</script>
+
+
+<script>
+
+ // GPT slots
+ var gptAdSlots = [];
+ googletag.cmd.push(function() {
+
+   // Define a size mapping object. The first parameter to addSize is
+   // a viewport size, while the second is a list of allowed ad sizes.
+   var mapping = googletag.sizeMapping().
+
+   // Accepts both common mobile banner formats
+   addSize([320, 200], [[320, 50], [320, 100]]).
+
+   // Landscape tablet
+   addSize([800, 200], [728, 90]).build();
+
+   // Define the GPT slot
+   gptAdSlots[0] = googletag.defineSlot('/51894415/pgre_bottom_responsive', [320, 50], 'ad-slot').
+       defineSizeMapping(mapping).
+       addService(googletag.pubads());
+   googletag.pubads().setTargeting("test","responsive");
+
+   // Start ad fetching
+   googletag.enableServices();
+ });
+</script>
+
+
+
+
+
+
+<br />
+<div id="ad-slot" style="margin: 0 auto; float: none; display: block; text-align:center;">
+   <script>
+     googletag.cmd.push(function() {
+       googletag.display('ad-slot');
+     });
+   </script>
+</div>
+<br />
+
+
+
+
+
+
+
+
+
+	<form id="viewtopic" method="post" action="./viewtopic.php?f=3&amp;t=5203&amp;start=100">
+	<fieldset class="display-options" style="margin-top: 0; ">
+				<label>Display posts from previous: <select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></label>
+		<label>Sort by <select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select></label> <label><select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select></label>
+		<input type="submit" name="sort" value="Go" class="button2" />
+			</fieldset>
+	</form>
+	<hr />
+
+<div class="action-bar bottom">
+	<div class="buttons">
+
+			<a href="./posting.php?mode=reply&amp;f=3&amp;t=5203" class="button icon-button reply-icon" title="Post a reply">
+			Post Reply		</a>
+
+			</div>
+
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Topic tools" class="button icon-button tools-icon dropdown-trigger dropdown-select"></span>
+		<div class="dropdown hidden">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li class="small-icon icon-print"><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=100&amp;view=print" title="Print view" accesskey="p">Print view</a></li>							</ul>
+		</div>
+	</div>
+
+
+			<div class="pagination">
+			110 posts
+							<ul>
+		<li class="previous"><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=50" rel="prev" role="button">Previous</a></li>
+			<li><a href="./viewtopic.php?f=3&amp;t=5203" role="button">1</a></li>
+			<li><a href="./viewtopic.php?f=3&amp;t=5203&amp;start=50" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+	</ul>
+					</div>
+		<div class="clear"></div>
+</div>
+
+
+	<p class="jumpbox-return"><a href="./viewforum.php?f=3" class="left-box arrow-left" accesskey="r">Return to “Prospective Physics Graduate Student Topics”</a></p>
+
+
+	<div class="dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+		<span title="Jump to" class="dropdown-trigger button dropdown-select">
+			Jump to		</span>
+		<div class="dropdown hidden">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																			<li><a href="./viewforum.php?f=1">Physics GRE Forum</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=18">Registration and Test Preparation</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=19">Problems, Solutions, and Discussion</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=20">Scores and Score Reporting</a></li>
+																<li><a href="./viewforum.php?f=3">Prospective Physics Graduate Student Topics</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=21">School Selection</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=22">GPA and Transcripts</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=23">Tests and Scores</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=24">Statement of Purpose and Resume</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=25">Research</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=26">Funding</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=27">Letters of Recommendation</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=28">Special Concerns for International Students</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=29">Transitioning to Physics from a non-physics field</a></li>
+																<li><a href="./viewforum.php?f=14">Current Physics Graduate Student Topics</a></li>
+																<li><a href="./viewforum.php?f=11">Physics Web Logs (Blogs)</a></li>
+																<li>&nbsp; &nbsp;<a href="./viewforum.php?f=17">Blog Comments</a></li>
+																<li><a href="./viewforum.php?f=16">Building Physics Graduate School Profiles</a></li>
+																<li><a href="./viewforum.php?f=13">PhysicsGRE.com Articles</a></li>
+																<li><a href="./viewforum.php?f=10">Physics Lounge</a></li>
+										</ul>
+		</div>
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3>Who is online</h3>
+		<p>Users browsing this forum: No registered users and 3 guests</p>
+	</div>
+
+			</div>
+
+
+<div id="page-footer">
+	<div class="navbar">
+	<div class="inner">
+
+	<ul id="nav-footer" class="linklist bulletin" role="menubar">
+		<li class="small-icon icon-home breadcrumbs">
+									<span class="crumb"><a href="./" data-navbar-reference="index">Forum Index</a></span>
+					</li>
+
+
+							<li class="small-icon icon-delete-cookies rightside"><a href="./ucp.php?mode=delete_cookies" data-ajax="true" data-refresh="true" role="menuitem">Delete all board cookies</a></li>
+
+
+
+
+		<li class="small-icon icon-contact rightside" data-last-responsive="true"><a href="./memberlist.php?mode=contactadmin" role="menuitem">Contact us</a></li>		<li class="rightside" data-last-responsive="true"><a href="/terms.php#privacy" role="menuitem">Privacy Policy</a></li>
+		<li class="rightside" data-last-responsive="true"><a href="/terms.php#copyright" role="menuitem">Copyright Policy</a></li>
+		<li class="rightside" data-last-responsive="true"><a href="/terms.php" role="menuitem">Terms</a></li>
+	</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited
+									</div>
+
+	<div id="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken">&nbsp;</div>
+	</div>
+	<div id="loading_indicator"></div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close"></a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close"></a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script type="text/javascript" src="./assets/javascript/jquery.min.js?assets_version=6"></script>
+<script type="text/javascript" src="./assets/javascript/core.js?assets_version=6"></script>
+
+
+<script type="text/javascript" src="./styles/prosilver/template/forum_fn.js?assets_version=6"></script>
+
+<script type="text/javascript" src="./styles/prosilver/template/ajax.js?assets_version=6"></script>
+
+
+
+
+</body>
+</html>
