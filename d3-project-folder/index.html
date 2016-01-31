@@ -11,7 +11,7 @@
 	  height: 75px;   /* We'll override height later */
 	  background-color: teal;
 	  margin-right: 2px;
-	  }	
+	  }
 	</style>
     </head>
 
@@ -32,8 +32,8 @@
 	  //    var barHeight = d * 5;  //Scale up by factor of 5
 	  //    return barHeight + "px";
 	  //});
-	  
-	var svg = d3.select("body").append("svg");    
+
+	var svg = d3.select("body").append("svg");
 	var w = 600;
 	var h = 250;
 
@@ -52,16 +52,16 @@
 	.attr("width", w / dataset.length - barPadding)
 	.attr("fill", function(d) {return "rgb(0, 0, " + (d * 10) + ")";});
 
-//	var circles = svg.selectAll("circle")     
-//	.data(dataset).enter().append("circle"); 
+//	var circles = svg.selectAll("circle")
+//	.data(dataset).enter().append("circle");
 
 //	circles.attr("cx", function(d, i) {return (i * 50) + 25;})
 //	.attr("cy", h/2)
 //	.attr("r", function(d) {return d;})
-//	.attr("fill", "yellow")   
-//	.attr("stroke", "orange")  
-//	.attr("stroke-width", function(d) {return d/2;}); 
-			  
+//	.attr("fill", "yellow")
+//	.attr("stroke", "orange")
+//	.attr("stroke-width", function(d) {return d/2;});
+
 var dataset = [
                 [5, 20], [480, 90], [250, 50], [100, 33], [330, 95],
                 [410, 12], [475, 44], [25, 67], [85, 21], [220, 88]
