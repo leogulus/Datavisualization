@@ -1,0 +1,100 @@
+Prop. Type: ENG/STIS/P
+Category:    
+ID:         10000
+Cycle:      12
+Title:	    STIS Pure Parallel Imaging Program: Cycle 12
+PI:         Paul Goudfrooij
+
+This is the default archival pure parallel program for STIS during cycle 12.
+------------------------------------------------------------------------------
+Prop. Type: GO
+Category:   GALAXIES
+ID:         10001
+Cycle:      12
+Title:	    Locating Ultraluminous X-Ray Sources
+PI:         Philip Kaaret
+
+We propose to observe ultraluminous X-ray sources which are located near
+objects bright both in the X-rays and the optical using Chandra and HST. The
+presence of these reference objects will allow us to tie the x-ray and optical
+references frames and achieve 0.1-0.2 arcsecond relative position accuracy in
+searching for optical counterparts to the ultraluminous x-ray sources. This
+will be a significant improvement over the accuracy previously obtained for
+most ULXs {limited by Chandra's absolute astrometry} and will should permit
+identification of individual counterparts.
+------------------------------------------------------------------------------
+Prop. Type: GO
+Category:   AGN
+ID:         10002
+Cycle:      12
+Title:	    Detailed Study of X-ray Jets from a Complete Survey
+PI:         Eric Perlman
+
+We propose deep followup HST and Chandra observations of two X-ray jets, which
+are the X-ray brightest discovered in our Chandra survey of quasars with known
+radio jets. With these data, we will compare their X-ray, optical and radio
+morphologies. We will also obtain X-ray and optical spectral indices, and
+spatially resolved SEDs from the radio through the X-rays. This will allow us
+to determine the X-ray emission mechanism at each point in these jets, and
+test critical predictions made by each mechanism. We will also be able to
+track any changes in physical conditions {including magnetic field and bulk
+Lorentz factor} that are present in the observed 90 degree bends.
+------------------------------------------------------------------------------
+Prop. Type: GO
+Category:   GALAXIES
+ID:         10003
+Cycle:      12
+Title:	    Deep Chandra and Hubble Observations of NGC4697, the Nearest
+	    Optically Luminous, X-ray Faint Elliptical Galaxy
+PI:         Craig Sarazin
+
+We propose 4 new Chandra observations of NGC4697, the nearest X-ray-faint,
+optically-bright elliptical, which was resolved into low mass X-ray binaries
+{LMXBs} in Cycle 1. We will detect LMXBs at least three times fainter {~1e37
+ergs/s} than possible for any luminous E galaxy at present, allowing a direct
+comparison with the LMXBs in our Galaxy and M31. We will measure the
+variability of sources on times up to 4.5 yr. Models predict variability for
+LMXBs in early-type galaxies, which is particularly strong for the brightest
+black hole sources. We also propose 1 orbit of HST to detect >1500 globular
+clusters {GCs}. If the results for luminous LMXBs continue to low LX, most of
+the LMXBs will be identified with GCs. We will study the formation history of
+LMXBs, GCs, and field stars in N4697.
+------------------------------------------------------------------------------
+Prop. Type: GO
+Category:   AGN
+ID:         10004
+Cycle:      12
+Title:	    The Physics of Relativistic Jets: Chandra Imaging of Extended Jets
+	    in Gamma-loud Blazars
+PI:         F. Tavecchio
+
+Extended jets have been a key target for Chandra yet only recently has the
+kpc-scale jet physics been compared to that of the inner, parsec-scale jets.
+Such a comparison reveals the jet deceleration, power dissipation, pressure
+gradient, and confinement mechanism --- all essential ingredients for
+understanding the relativistic jets that characterize radio- loud AGN.
+Currently, few data exist to make this comparison. We propose to double the
+sample, with Chandra observations of 4 gamma-loud blazars: 0954+556 and
+1229-021, the only 2 bright radio jets not yet observed by Chandra; and
+0208-512 and 3C 454.3, observed in A03 with much too short exposures. We also
+propose HST multi-band ACS imaging of jet knots in 0208-512, 0954+556 and 3C
+454.3.
+------------------------------------------------------------------------------
+Prop. Type: GO
+Category:   GALAXIES
+ID:         10005
+Cycle:      12
+Title:	    A Uniform Study of Globular Cluster X-raySources: The Keys to
+	    Cluster Dynamical Evolution
+PI:         Walter Lewin
+
+We propose to extend our ongoing studies of the dynamical evolution of
+globular clusters by observing their populations of low-luminosity X-ray
+sources. Many of these sources are binary systems {or have evolved from them}
+and hold the key to the clusters with widely different physical properties
+such as central concentration, cluster size and mass, which are all key
+ingredients in the formation and evolution of binaries. To make this study as
+uniform as possible, the clusters will be observed to the same limiting
+luminosity. Numberical simulations with the world's fastest computer will
+assist in the interpretation of our observational data.
+------------------------------------------------------------------------------
