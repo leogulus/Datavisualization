@@ -1,0 +1,123 @@
+<html>
+<head></head>
+<body>
+
+<div id="pieChart"></div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="d3pie.min.js"></script>
+<script>
+var pie = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "What Thai People have been reading on?",
+			"fontSize": 22,
+			"font": "verdana"
+		},
+		"subtitle": {
+			"text": "Have you ever wondered what are the most popular form of reading materials that Thai people read?",
+			"color": "#999999",
+			"fontSize": 10,
+			"font": "verdana"
+		},
+		"titleSubtitlePadding": 12
+	},
+	"footer": {
+		"text": "Source: National Statistical Office, Ministry of Information and Communication Technology",
+		"color": "#999999",
+		"fontSize": 11,
+		"font": "open sans",
+		"location": "bottom-center"
+	},
+	"size": {
+		"canvasHeight": 450,
+		"canvasWidth": 650,
+		"pieInnerRadius": "11%",
+		"pieOuterRadius": "86%"
+	},
+	"data": {
+		"content": [
+			{
+				"label": "Newspaper",
+				"value": 32398187,
+				"color": "#7e3838"
+			},
+			{
+				"label": "Magazine\t",
+				"value": 19087624,
+				"color": "#7e6538"
+			},
+			{
+				"label": "Journal/regularity publish document",
+				"value": 20059737,
+				"color": "#7c7e38"
+			},
+			{
+				"label": "Novel/cartoon/story",
+				"value": 17704030,
+				"color": "#587e38"
+			},
+			{
+				"label": "Textbook",
+				"value": 13569557,
+				"color": "#387e45"
+			},
+			{
+				"label": "Book (excluding textbook)",
+				"value": 24039671,
+				"color": "#387e6a"
+			},
+			{
+				"label": "Religious doctrine document",
+				"value": 20040398,
+				"color": "#386a7e"
+			},
+			{
+				"label": "Message in social media/SMS/E-mail",
+				"value": 24741399,
+				"color": "#38507e"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"pieDistance": 20
+		},
+		"mainLabel": {
+			"font": "verdana",
+			"fontSize": 11
+		},
+		"percentage": {
+			"color": "#e1e1e1",
+			"font": "verdana",
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#e1e1e1",
+			"font": "verdana"
+		},
+		"lines": {
+			"enabled": true,
+			"color": "#cccccc"
+		},
+		"truncation": {
+			"enabled": true
+		}
+	},
+	"tooltips": {
+		"enabled": true,
+		"type": "placeholder",
+		"string": "{label}: {value}, {percentage}%"
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "linear",
+			"speed": 400,
+			"size": 8
+		}
+	}
+});
+</script>
+
+</body>
+</html>
