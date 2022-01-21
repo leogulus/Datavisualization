@@ -6,7 +6,7 @@ dbf==0.94.3
 decorator==4.0.10
 gnureadline==6.3.3
 ipdb==0.10.0
-ipython==4.2.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 jdcal==1.2
 jellyfish==0.5.0
